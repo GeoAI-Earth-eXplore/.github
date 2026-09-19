@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://geoai-earth-explore.github.io/">
-    <img src="https://raw.githubusercontent.com/GeoAI-Earth-eXplore/.github/main/GEX_Logo.png"
+    <img src="https://raw.githubusercontent.com/GeoAI-Earth-eXplore/.github/refs/heads/main/GEX_Logo.png"
          alt="GEX — GeoAI Earth eXplore"
          width="900">
   </a>
