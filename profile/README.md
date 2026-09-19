@@ -1,41 +1,45 @@
 # GEX — GeoAI Earth eXplore
 
-**GeoAI Earth eXplore (GEX)** is a curated collection of resources for GeoAI, Earth observation, remote sensing, geospatial artificial intelligence, and environmental applications.
+**GeoAI Earth eXplore (GEX)** is a curated collection of resources for GeoAI, Earth observation, remote sensing, geospatial artificial intelligence, and environmental research.
 
 The goal of GEX is to make high-quality resources easier to discover, organize, and reuse across research and applied geospatial AI workflows.
 
 ## Core Areas
 
-- Earth observation datasets
+- Earth observation and remote sensing
 - GeoAI and Earth foundation models
-- Remote sensing and geospatial machine learning
+- GIS and spatial analysis
+- Artificial intelligence and machine learning
+- GeoAI agents and conversational geospatial systems
 - LiDAR and 3D geospatial data
-- Forestry, vegetation, agriculture, and land-cover applications
-- GeoAI tools, software, and geospatial computing platforms
-- Tutorials, courses, and reproducible examples
-- Spatial analysis, model interpretation, and explainable AI
-- Environmental and Earth science applications
+- Environmental and Earth science research
+- Tutorials and reproducible learning resources
 
 ## Collections
 
-### Datasets
-Satellite imagery, aerial imagery, LiDAR, land cover, vegetation, agriculture, biomass, protected lands, socioeconomic data, and benchmark datasets.
+### [Datasets](https://github.com/GeoAI-Earth-eXplore/datasets)
 
-### Foundation Models
-Earth observation and GeoAI foundation models, including multimodal, multisensor, vision, and remote sensing foundation models.
+Satellite and aerial imagery, LiDAR, land cover, agriculture, forests, vegetation, biomass, protected lands, socioeconomic data, and benchmark datasets.
 
-Examples include Prithvi, TerraMind, AnySat, AgriFM, AlphaEarth, DINOv3, and related models.
+### [GeoAI Agents](https://github.com/GeoAI-Earth-eXplore/geoai-agents)
 
-### Tools and Software
-Geospatial platforms, GIS software, machine learning libraries, spatial analysis tools, and cloud-based Earth observation systems.
+Conversational geospatial systems, AI-assisted GIS interfaces, geospatial research agents, and emerging agentic GeoAI applications.
 
-Examples include Google Earth Engine, QGIS, ArcGIS, Microsoft Planetary Computer, GeoDa, RAPIDS, and related tools.
+### [Foundation Models](https://github.com/GeoAI-Earth-eXplore/foundation-models)
 
-### Tutorials and Learning Resources
-Courses, tutorials, documentation, examples, and practical learning materials for GeoAI, remote sensing, GIS, spatial analysis, and machine learning.
+Earth observation, multimodal, multisensor, vision, embedding, and representation foundation models relevant to GeoAI.
 
-### Applications
-Applications of GeoAI in forestry, agriculture, urban systems, ecosystem services, environmental monitoring, land-cover mapping, biomass estimation, and Earth science.
+### [AI Tools](https://github.com/GeoAI-Earth-eXplore/ai-tools)
+
+Machine learning, deep learning, computer vision, model interpretation, explainable AI, image evaluation, and GPU computing tools.
+
+### [GIS Tools](https://github.com/GeoAI-Earth-eXplore/gis-tools)
+
+GIS software, Earth observation platforms, spatial analysis tools, web mapping technologies, geospatial data portals, and visualization resources.
+
+### [Tutorials](https://github.com/GeoAI-Earth-eXplore/tutorials)
+
+Courses, tutorials, documentation, and practical learning resources for GeoAI, remote sensing, GIS, spatial analysis, machine learning, LiDAR, and image processing.
 
 ## About GEX
 
@@ -45,16 +49,14 @@ GEX is being developed as an open resource hub for discovering, organizing, and 
 
 ## How to Contribute
 
-GEX welcomes contributions from the GeoAI, remote sensing, GIS, and Earth science communities.
+GEX welcomes contributions from the GeoAI, remote sensing, GIS, Earth science, and artificial intelligence communities.
 
-All public repositories are open to contributions. You can contribute by:
+You can contribute by:
 
-- Adding useful datasets, models, tools, tutorials, or research resources
+- Adding useful resources
 - Improving existing descriptions or documentation
 - Fixing outdated or broken links
-- Suggesting new categories or resources
-- Contributing examples, workflows, or reproducible code
+- Suggesting new categories
+- Contributing examples or reproducible workflows
 
-To contribute, fork the relevant repository, make your changes, and submit a pull request.
-
-Community contributions are encouraged to help GEX remain useful, current, and open.
+Please submit a pull request or open an issue in the relevant repository.
