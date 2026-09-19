@@ -2,6 +2,8 @@
 
 **GeoAI Earth eXplore (GEX)** is a curated collection of resources for GeoAI, Earth observation, remote sensing, geospatial artificial intelligence, and environmental research.
 
+## 🔗 [geoai-earth-explore.github.io](https://geoai-earth-explore.github.io/) 
+
 The goal of GEX is to make high-quality resources easier to discover, organize, and reuse across research and applied geospatial AI workflows.
 
 ## Core Areas
