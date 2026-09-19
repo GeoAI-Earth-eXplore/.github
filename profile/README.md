@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://geoai-earth-explore.github.io/">
+    <img src="https://raw.githubusercontent.com/GeoAI-Earth-eXplore/.github/main/GEX_Logo.png"
+         alt="GEX — GeoAI Earth eXplore"
+         width="900">
+  </a>
+</p>
+
 # GEX — GeoAI Earth eXplore
 
 **GeoAI Earth eXplore (GEX)** is a curated collection of resources for GeoAI, Earth observation, remote sensing, geospatial artificial intelligence, and environmental research.
