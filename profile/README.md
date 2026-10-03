@@ -35,9 +35,9 @@ Satellite and aerial imagery, LiDAR, land cover, agriculture, forests, vegetatio
 
 Conversational geospatial systems, AI-assisted GIS interfaces, geospatial research agents, and emerging agentic GeoAI applications.
 
-### [Foundation Models](https://github.com/GeoAI-Earth-eXplore/foundation-models)
+### [Geospatial Foundation Models](https://github.com/GeoAI-Earth-eXplore/geospatial-foundation-models)
 
-Earth observation, multimodal, multisensor, vision, embedding, and representation foundation models relevant to GeoAI.
+Earth observation, multimodal, multisensor, vision, embedding, and representation foundation models for GeoAI and geospatial applications.
 
 ### [AI Tools](https://github.com/GeoAI-Earth-eXplore/ai-tools)
 
